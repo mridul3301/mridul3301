@@ -1,4 +1,4 @@
-## Hello, I'm Mridul 👋:
+## Hello👋, I'm Mridul:
 🌱 I’m  learning Deep Learning<br>🔭 I’m currently working on some DL projects.<br>👯 I’m looking to collaborate on ML & DL projects.<br>📫 Contact me : mridulsharma3301@gmail.com
 
 
