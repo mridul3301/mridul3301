@@ -2,7 +2,7 @@
 🌱 I’m  learning Deep Learning<br>🔭 I’m currently working on some DL projects.<br>👯 I’m looking to collaborate on ML & DL projects.<br>📫 Contact me : mridulsharma3301@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mridul3301) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mriiidullll) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCF0DSqtmkmbw115NsjGBvsg) 
 
 # 💻 Tech Stack:
@@ -11,8 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=mridul3301&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mridul3301&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mridul3301&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mridul3301&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
