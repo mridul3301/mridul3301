@@ -8,5 +8,5 @@
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mridul3301&theme=dark&show_icons=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mridul3301&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mridul3301&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mridul3301&theme=dark&layout=compact)
